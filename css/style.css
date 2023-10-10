@@ -104,3 +104,7 @@ h1{
   text-decoration: none;
   margin: auto;
 }
+.footer a img{
+  padding-top: 10px;
+  width: 30px;
+}
