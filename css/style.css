@@ -1,0 +1,115 @@
+
+ body{
+    background-color:white    ;
+    
+  }  
+header {
+    
+    background-color: white;
+    padding: 0;
+    margin: 0px;
+    align-content: center;
+    display: flex;
+    border-bottom: 2px solid rgb(21, 20, 20);
+    
+    
+}
+header .text_b{
+  background-color: rgb(28, 240, 169);
+  display: flex  ;
+  
+  
+}
+
+header .logo  {
+       
+  align-content: center;
+  margin-left: 300px;
+  
+}
+header .logo img{
+padding-top: 10px;
+    width: 70px;
+       
+}
+header nav {
+    display: flex;
+    align-content: space-around;
+    font-family: 'Roboto', sans-serif;
+    
+    
+    
+}
+header nav ul {
+    
+  display: flex;
+
+}
+header nav ul li{
+    padding-left: 50px;
+    padding-top: 15px;
+    text-decoration: none;
+    list-style: none;
+    
+    
+   
+}
+header nav ul li a{
+   text-decoration: none;
+   color: black;
+    
+}
+.ofertas{
+  position:sticky;
+  opacity: 80%;
+  border-radius: 200px;
+  margin: 1px;
+  background-color: black;
+}
+h1{
+  
+  color: white;
+  margin: 2px;
+  padding: 12px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 30px;
+}
+
+
+
+
+
+ footer {
+ 
+  background-color:white;
+  display: flex;
+  padding: 1px;
+  align-content: space-between;
+  width: 100%;
+  height: 100px;
+  border-top: 2px solid black;
+}
+  footer .footer  {
+  display: flex;
+  
+  margin: 0%;
+}
+ footer .footer ul {
+  display: flex;
+    align-items: center;
+padding: 20PX;
+}
+.footer ul li{
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+align-content: space-around;
+  padding: 100%;
+}
+footer .footer ul li a{
+  text-decoration: none;
+  text-align: center;
+  color:black;
+  
+}
