@@ -3,7 +3,7 @@
     background-color:white    ;
     
   }  
-header {
+/*header {
     
     background-color: white;
     padding: 0;
@@ -58,7 +58,7 @@ header nav ul li a{
    text-decoration: none;
    color: black;
     
-}
+}*/
 .ofertas{
   position:sticky;
   opacity: 80%;
